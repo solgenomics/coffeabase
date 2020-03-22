@@ -1,0 +1,19 @@
+<%args>
+$schema
+$static_content_path => undef
+$show_accept_dialog => undef
+</%args>
+
+<center>
+<br/>
+<h1>Welcome to Coffeabase!</h1>
+
+
+Photo by Rodrigo Flores on Unsplash
+
+
+<br/>
+</center>
+
+<br/>
+

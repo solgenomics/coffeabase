@@ -1,0 +1,17 @@
+
+<& /page/page_title.mas, title=>"CoffeaBase Help" &>
+
+<div>CoffeaBase is a database for the genomes and phenotypes of the <i>Coffea</i> genus.
+
+CoffeaBase is implemented in the same software as the <a href="https://solgenomics.net">Solgenomics</a> site and other <a href="https://breedbase.org">BreedBase</a> breeding sites. Many functionalities are not yet activitated.
+
+<h3>FAQ</h3>
+
+<div>For frequently asked questions, see the <a href="/help/faq">FAQ page</a>.</div>
+
+<h3>SlideShare</h3>
+
+<div>SlideShare has <a href="http://www.slideshare.net/solgenomics">a collection of slide decks</a> about the related <a href="https://solgenomics.net">SGN</a> and <a href="https://cassavabase.org">CassavaBase</a> databases.
+
+
+
