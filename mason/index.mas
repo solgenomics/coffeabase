@@ -8,10 +8,13 @@ $show_accept_dialog => undef
 <br/>
 <h1>Welcome to Coffeabase!</h1>
 
-<& /image/embed_image.mas, image_id=>2426, dbh=>$schema->storage->dbh() &>
+<& /image/embed_image.mas, image_id=>2428, dbh=>$schema->storage->dbh() &>
 <br />
-Photo by Rodrigo Flores on Unsplash
+Photo by Prof Alexandre deKochko, IRD.
 
+<h2>Sequenced Accessions</h2>
+
+soon
 
 <br/>
 </center>

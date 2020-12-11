@@ -3,17 +3,14 @@
   <ul class="dropdown-menu">
       <li class="dropdown-header">Genome Browser</li>	
 
-  <li><a href="/jbrowse/"><i>Coffea arabica</i> reference genome</a></li>
-  <li><a href="/jbrowse/"><i>Coffea canephora</i> reference genome</a></li>
-    <li><a href="/jbrowse/"><i>Coffea eugenioides</i> reference genome</a></li>
+  <li><a href="/jbrowse_coffea/?data=data/json/Coffea_arabica_VIB_v0.6"><i>Coffea arabica</i> reference genome</a></li>
+  <li><a href="/jbrowse_coffea/?data=data/json/Coffea_canephorav1.8"><i>Coffea canephora</i> reference genome</a></li>
+    <li><a href="/jbrowse_coffea/?data=data/json/Coffea_eugenioidesv1.6"><i>Coffea eugenioides</i> reference genome</a></li>
     	   
 <li class="dropdown-header">Genetic Maps</li>	
         
-<li><a rref="/cview/"><i>Coffea arabica</i></a></li>
-<li><a rref="/cview/"><i>Coffea canephora</i></a></li>
-<li><a rref="/cview/"><i>Coffea eugenioides</i></a></li>
-  
-   
+<li><a href="/cview/map.pl?map_version_id=64"><i>Coffea arabica</i></a></li>
+<li><a href="/cview/map.pl?map_version_id=25"><i>Coffea canephora</i></a></li>
     
   </ul>
 </li>
