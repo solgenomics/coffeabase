@@ -3,9 +3,9 @@
   <ul class="dropdown-menu">
       <li class="dropdown-header">Genome Browser</li>	
 
-  <li><a href="/jbrowse_coffea/?data=data/json/Coffea_arabica_VIB_v0.6"><i>Coffea arabica</i> reference genome</a></li>
-  <li><a href="/jbrowse_coffea/?data=data/json/Coffea_canephorav1.8"><i>Coffea canephora</i> reference genome</a></li>
-    <li><a href="/jbrowse_coffea/?data=data/json/Coffea_eugenioidesv1.6"><i>Coffea eugenioides</i> reference genome</a></li>
+  <li><a href="/jbrowse_coffea/?data=data/json/Coffea_arabica_VIB_v0.6" target="_new" ><i>Coffea arabica</i> reference genome</a></li>
+  <li><a href="/jbrowse_coffea/?data=data/json/Coffea_canephorav1.8" target="_new" ><i>Coffea canephora</i> reference genome</a></li>
+    <li><a href="/jbrowse_coffea/?data=data/json/Coffea_eugenioidesv1.6" target="_new" ><i>Coffea eugenioides</i> reference genome</a></li>
     	   
 <li class="dropdown-header">Genetic Maps</li>	
         
