@@ -11,6 +11,9 @@
         
 <li><a href="/cview/map.pl?map_version_id=64"><i>Coffea arabica</i></a></li>
 <li><a href="/cview/map.pl?map_version_id=25"><i>Coffea canephora</i></a></li>
-    
+
+<li class="dropdown-header">Gene Curation</li>
+    <li><a href="http://apollo.sgn.cornell.edu/apollo/annotator/index">Apollo Genome Editor</a></li>
+
   </ul>
 </li>
