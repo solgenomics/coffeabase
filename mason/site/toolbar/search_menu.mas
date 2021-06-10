@@ -9,5 +9,7 @@
     <li><a href="/search/images">Images</a></li>
     <li><a href="/search/people">People</a></li>
     <li><a href="/help/faq.pl">FAQ</a></li>
+        <li role="separator" class="divider"></li -->
+    <li><a href="ftp://ftp.coffeabase.org">FTP site</a></lib>
   </ul>
 </li>
